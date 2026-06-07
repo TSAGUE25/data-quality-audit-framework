@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Variables d'environnement
+.env
+.env.local
+
+# Données sensibles (ne jamais versionner)
+data/raw/
+data/confidential/
+*.csv.bak
+
+# Rapports générés (volumineux)
+reports/generated/
+*.html
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/

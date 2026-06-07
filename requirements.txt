@@ -1,0 +1,28 @@
+# Data Quality Audit Framework — Dépendances Python
+# Auteur : Emmanuel TSAGUE
+# Installer avec : pip install -r requirements.txt
+
+# Manipulation de données
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Profiling automatique (optionnel — génère un rapport HTML complet)
+ydata-profiling>=4.5.0
+
+# Qualité de données avancée (optionnel — moteur de règles déclaratif)
+great-expectations>=0.18.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Export et reporting
+jinja2>=3.1.0
+openpyxl>=3.1.0
+
+# Tests
+pytest>=7.0.0

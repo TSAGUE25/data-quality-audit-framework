@@ -1,0 +1,33 @@
+id_client,nom,prenom,email,date_naissance,telephone,region,statut,montant_contrat,date_inscription,segment
+C001,DUPONT,Marie,marie.dupont@email.com,15/03/1985,0612345678,Ile-de-France,actif,1250.00,2022-01-15,PME
+C002,Martin,jean,jean.martin@email.com,1980/07/22,06 98 76 54 32,Grand Est,Actif,3400.00,2022-02-10,ETI
+C003,BERNARD,Sophie,sophie.bernard,12/11/1992,0745678901,Auvergne-Rhône-Alpes,actif,780.50,2022-03-05,TPE
+C004,Leroy,Paul,paul.leroy@email.com,25/08/1978,0698765432,Nouvelle-Aquitaine,inactif,-200.00,2022-04-20,PME
+C005,MOREAU,Claire,claire.moreau@email.com,03/12/1990,0756789012,Bretagne,ACTIF,2100.00,2022-05-11,PME
+C001,DUPONT,Marie,marie.dupont@email.com,15/03/1985,0612345678,Ile-de-France,actif,1250.00,2022-01-15,PME
+C006,Simon,Thomas,,29/02/1993,0623456789,Normandie,actif,890.00,2022-06-30,TPE
+C007,MICHEL,Isabelle,isabelle.michel@email.com,17/09/1987,,Pays de la Loire,actif,4500.00,2022-07-14,GE
+C008,Laurent,,laurent.david@email.com,31/04/1982,0712345678,Hauts-de-France,actif,1670.00,2022-08-03,PME
+C009,ROBERT,Nicolas,nicolas.robert@email.com,08/06/1995,0634567890,Occitanie,active,ABC,2022-09-19,PME
+C010,Petit,Emma,emma.petit@email.com,,0756789012,Centre-Val de Loire,actif,3200.00,2022-10-07,ETI
+C011,GARCIA,Luc,luc.garcia@email.fr,22/01/1988,0645678901,PACA,actif,950.00,2026-12-31,TPE
+C012,Roux,Marie,marie.roux@email.com,09/04/1991,06123,Ile-de-France,Inactif,2750.00,2023-01-25,PME
+C013,VINCENT,Anne,anne.vincent@email.com,14/07/1983,0767890123,Grand Est,actif,180.00,2023-02-14,TPE
+C014,FOURNIER,Marc,marc.fournier@email.com,30/11/1976,0678901234,Bretagne,actif,6700.00,2023-03-01,GE
+C015,Morel,Julie,julie.morel@email.com,05/05/1994,0689012345,Nouvelle-Aquitaine,INACTIF,1100.00,2023-04-18,PME
+C016,SIMON,Pierre,,18/08/1979,,Normandie,actif,2300.00,2023-05-09,ETI
+C017,GIRARD,Hélène,helene.girard@email.com,27/03/1986,0712345679,Pays de la Loire,actif,875.25,2023-06-22,TPE
+C018,Boyer,François,francois.boyer,11/10/1991,0723456789,Hauts-de-France,actif,4100.00,2023-07-31,PME
+C019,CHEVALIER,Lucie,lucie.chevalier@email.com,19/12/1997,0734567890,Occitanie,actif,,2023-08-15,ETI
+C020,Faure,Denis,denis.faure@email.com,06/02/1984,0745678900,Centre-Val de Loire,Actif,3600.00,2023-09-03,PME
+C021,ROUSSEAU,Camille,camille.rousseau@email.com,23/06/1989,0756789011,PACA,actif,1450.00,2023-10-27,PME
+C002,Martin,jean,jean.martin@email.com,1980/07/22,06 98 76 54 32,Grand Est,Actif,3400.00,2022-02-10,ETI
+C022,BLANC,Éric,eric.blanc@email.com,07/09/1975,0767890122,Ile-de-France,actif,8900.00,2023-11-14,GE
+C023,Guerin,Marie,marie.guerin@email.com,31/02/1993,0778901233,Auvergne-Rhône-Alpes,actif,1200.00,2023-12-05,PME
+C024,HENRY,Alice,alice.henry@email.com,14/04/1990,0789012344,Bretagne,actif,2200.00,2024-01-20,ETI
+C025,Mercier,Romain,romain.mercier@email.com,02/11/1985,0791234567,Grand Est,suspendu,670.00,2024-02-08,TPE
+C026,BOYER,Sophie,sophie.boyer@email.com,,0612345699,Nouvelle-Aquitaine,actif,3100.00,2024-03-15,PME
+C027,Colin,Antoine,antoine.colin@email.com,28/08/1998,0623456780,Normandie,actif,1900.00,2024-04-02,PME
+C028,ADAM,Nathalie,nathalie.adam@email.com,15/05/1982,0634567891,Pays de la Loire,actif,250000.00,2024-05-18,TPE
+C029,Renard,Kevin,kevin.renard@email.com,03/07/1993,0645678902,Hauts-de-France,actif,2800.00,2024-06-30,ETI
+C030,CLEMENT,Isabelle,isabelle.clement@email.com,21/01/1987,0656789013,Occitanie,actif,1750.00,2024-07-12,PME
