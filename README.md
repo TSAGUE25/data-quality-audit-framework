@@ -1,4 +1,4 @@
-# Audit Qualité des Données pour Fiabiliser un Reporting Métier
+﻿# Audit Qualité des Données pour Fiabiliser un Reporting Métier
 ### Data Quality Audit Framework — Portfolio Data Analyst / Data Scientist
 
 **Auteur :** Emmanuel TSAGUE | Data Scientist / Data Analyst  
@@ -733,6 +733,13 @@ Le projet est documenté avec la structure GitHub complète, les données d'exem
 10. **Écrire des tests unitaires** dans un dossier `tests/` avec pytest
 11. **Ajouter un badge de score** dans le README (voir les badges en haut)
 12. **Versionner proprement** : des commits avec des messages clairs, pas un seul commit géant
+
+
+## Contributors
+
+| Nom | Role | GitHub |
+|-----|------|--------|
+| **TSAGUE Emmanuel** | Data Scientist - auteur principal | [@TSAGUE25](https://github.com/TSAGUE25) |
 
 ---
 
