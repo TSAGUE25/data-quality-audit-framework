@@ -324,6 +324,17 @@ print(f"Score qualité : {checker.quality_score}/100")
 
 ---
 
+## Ce projet démontre
+
+- La capacité à construire un **framework d'audit qualité réutilisable** : 9 contrôles paramétrables, applicable à tout fichier CSV livré par un système CRM/ERP
+- La maîtrise des **expressions régulières** (email RFC, téléphone FR, dates DD/MM/YYYY) pour valider des formats sans dépendance externe
+- La construction d'un **score de qualité composite 0–100** : indicateur synthétique transformant une liste d'anomalies en décision de publication
+- Une approche **non destructive** : le script détecte et documente sans modifier la source — conforme aux exigences de traçabilité RGPD
+- La **génération automatique d'un rapport Markdown** avec plan de correction priorisé — livrable métier sans intervention manuelle
+- La réduction d'un **audit manuel de 2–3 jours** à 30 secondes de traitement automatisé
+
+---
+
 ## 13. Contributors
 
 | Nom | Rôle | GitHub |
@@ -334,5 +345,5 @@ print(f"Score qualité : {checker.quality_score}/100")
 
 *Auteur : Emmanuel TSAGUE — Data Scientist / Data Analyst*
 *Formation : DataScientest | Domaines : DataOps · Finance · Commerce · Énergie*
-*Contact : emmatsague@yahoo.fr*
+*Contact : emmatsague@yahoo.fr | [LinkedIn](https://www.linkedin.com/in/emmanuel-tsague-114295414)*
 *Données : entièrement simulées — aucune donnée réelle ou confidentielle*
